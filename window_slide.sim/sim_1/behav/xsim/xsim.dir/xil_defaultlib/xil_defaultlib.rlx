@@ -1,0 +1,9 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+D:/self_learning/window_slide/window_slide.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+D:/self_learning/window_slide/window_slide.srcs/sim_1/new/window_slide_tb.v,1711252511,verilog,,,,window_slide_tb,,,,,,,,
+D:/self_learning/window_slide/window_slide.srcs/sources_1/imports/sobel/dualports_blkram.v,1710772401,verilog,,D:/self_learning/window_slide/window_slide.srcs/sources_1/new/window_slide.v,,dualports_blkram,,,,,,,,
+D:/self_learning/window_slide/window_slide.srcs/sources_1/new/window_slide.v,1711251962,verilog,,D:/self_learning/window_slide/window_slide.srcs/sources_1/new/window_slide_simp.v,,window_slide,,,,,,,,
+D:/self_learning/window_slide/window_slide.srcs/sources_1/new/window_slide_simp.v,1711252102,verilog,,D:/self_learning/window_slide/window_slide.srcs/sim_1/new/window_slide_tb.v,,window_slide_simp,,,,,,,,

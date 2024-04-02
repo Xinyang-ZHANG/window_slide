@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../window_slide.srcs/sources_1/imports/sobel/dualports_blkram.v" \
+"../../../../window_slide.srcs/sources_1/new/window_slide.v" \
+"../../../../window_slide.srcs/sources_1/new/window_slide_simp.v" \
+"../../../../window_slide.srcs/sim_1/new/window_slide_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/self_learning/window_slide/window_slide.srcs/sources_1/imports/sobel/dualports_blkram.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dualports_blkram
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/self_learning/window_slide/window_slide.srcs/sources_1/new/window_slide.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module window_slide
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/self_learning/window_slide/window_slide.srcs/sources_1/new/window_slide_simp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module window_slide_simp
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/self_learning/window_slide/window_slide.srcs/sim_1/new/window_slide_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module window_slide_tb

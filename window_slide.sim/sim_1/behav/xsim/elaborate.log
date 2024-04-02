@@ -1,0 +1,29 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado2017.4/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto 190e016a553142d8bfd2e41fd524f7e9 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot window_slide_tb_behav xil_defaultlib.window_slide_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-2534] module window_slide does not have a parameter named PAD_EN [D:/self_learning/window_slide/window_slide.srcs/sim_1/new/window_slide_tb.v:146]
+WARNING: [VRFC 10-278] actual bit length 12 differs from formal bit length 8 for port din [D:/self_learning/window_slide/window_slide.srcs/sim_1/new/window_slide_tb.v:152]
+WARNING: [VRFC 10-278] actual bit length 16 differs from formal bit length 4 for port addra [D:/self_learning/window_slide/window_slide.srcs/sources_1/new/window_slide.v:199]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port rstb [D:/self_learning/window_slide/window_slide.srcs/sources_1/new/window_slide.v:203]
+WARNING: [VRFC 10-278] actual bit length 16 differs from formal bit length 4 for port addrb [D:/self_learning/window_slide/window_slide.srcs/sources_1/new/window_slide.v:204]
+WARNING: [VRFC 10-278] actual bit length 12 differs from formal bit length 8 for port din [D:/self_learning/window_slide/window_slide.srcs/sim_1/new/window_slide_tb.v:168]
+WARNING: [VRFC 10-278] actual bit length 16 differs from formal bit length 5 for port addra [D:/self_learning/window_slide/window_slide.srcs/sources_1/new/window_slide_simp.v:142]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 1 for port rstb [D:/self_learning/window_slide/window_slide.srcs/sources_1/new/window_slide_simp.v:146]
+WARNING: [VRFC 10-278] actual bit length 16 differs from formal bit length 5 for port addrb [D:/self_learning/window_slide/window_slide.srcs/sources_1/new/window_slide_simp.v:147]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xpm.xpm_memory_base(MEMORY_TYPE=1,ME...
+Compiling module xpm.xpm_memory_sdpram(MEMORY_SIZE=32...
+Compiling module xil_defaultlib.dualports_blkram(WRITE_DATA_DEPT...
+Compiling module xil_defaultlib.window_slide(IMAGE_LENGTH=25,IMA...
+Compiling module xpm.xpm_memory_base(MEMORY_TYPE=1,ME...
+Compiling module xpm.xpm_memory_sdpram(MEMORY_SIZE=20...
+Compiling module xil_defaultlib.dualports_blkram(WRITE_DATA_DEPT...
+Compiling module xil_defaultlib.window_slide_simp(IMAGE_LENGTH=2...
+Compiling module xil_defaultlib.window_slide_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot window_slide_tb_behav
